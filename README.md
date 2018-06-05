@@ -1,6 +1,6 @@
 # @everestate/serverless-router-plugin-dynamics
 
-> Serverless Router plugin to handle Microsoft Dynamics Webhooks
+> [Serverless Router](https://github.com/everestate/serverless-router) plugin to handle Microsoft Dynamics Webhooks
 
 ## Installation
 

@@ -16,9 +16,9 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-"@everestate/serverless-router@>=0.1.0 <1.0.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@everestate/serverless-router/-/serverless-router-0.1.0.tgz#d01859a8eb78231296311dea1e40e9b6f6367d27"
+"@everestate/serverless-router@>=0.2.0 <1.0.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@everestate/serverless-router/-/serverless-router-0.2.0.tgz#0d98f12da833bf2dd6c5fd62d1fefc1423582e24"
 
 abab@^1.0.4:
   version "1.0.4"

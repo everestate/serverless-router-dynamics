@@ -1,4 +1,3 @@
-const ServerlessRouterDynamicsPlugin = require('./lib/ServerlessRouterDynamicsPlugin');
+const Dynamics = require('./lib/Dynamics');
 
-
-module.exports = ServerlessRouterDynamicsPlugin;
+module.exports = Dynamics;

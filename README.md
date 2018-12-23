@@ -11,13 +11,13 @@ npm install @everestate/serverless-router @everestate/serverless-router-dynamics
 ## Usage
 
 ```javascript
-const ServerlessRouter = require('@everestate/serverless-router');
-const ServerlessRouterDynamicsPlugin = require('@everestate/serverless-router-dynamics');
+const Router = require('@everestate/serverless-router');
+const Dynamics = require('@everestate/serverless-router-dynamics');
 
 const leadService = require('../services/userService');
 
 function dispatch(event) {
-  const router = new ServerlessRouter([ServerlessRouterDynamicsPlugin]);
+  const router = new Router([Dynamics]);
 
   router.dynamics
     .create('lead', ({ id, entity }) => {

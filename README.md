@@ -1,18 +1,18 @@
-# @everestate/serverless-router-plugin-dynamics
+# @everestate/serverless-router-dynamics
 
 > [Serverless Router](https://github.com/everestate/serverless-router) plugin to handle Microsoft Dynamics Webhooks
 
 ## Installation
 
 ```
-npm install @everestate/serverless-router @everestate/serverless-router-plugin-dynamics --save
+npm install @everestate/serverless-router @everestate/serverless-router-dynamics --save
 ```
 
 ## Usage
 
 ```javascript
 const ServerlessRouter = require('@everestate/serverless-router');
-const ServerlessRouterDynamicsPlugin = require('@everestate/serverless-router-plugin-dynamics');
+const ServerlessRouterDynamicsPlugin = require('@everestate/serverless-router-dynamics');
 
 const leadService = require('../services/userService');
 

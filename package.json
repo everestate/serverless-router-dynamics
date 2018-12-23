@@ -1,5 +1,5 @@
 {
-  "name": "@everestate/serverless-router-plugin-dynamics",
+  "name": "@everestate/serverless-router-dynamics",
   "version": "0.1.0",
   "description": "Serverless Router plugin to handle Microsoft Dynamics Webhooks",
   "keywords": [

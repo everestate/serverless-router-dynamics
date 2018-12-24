@@ -1,6 +1,6 @@
 {
-  "name": "@everestate/serverless-router-plugin-dynamics",
-  "version": "0.1.0",
+  "name": "@everestate/serverless-router-dynamics",
+  "version": "0.2.0",
   "description": "Serverless Router plugin to handle Microsoft Dynamics Webhooks",
   "keywords": [
     "serverless",
@@ -30,13 +30,13 @@
   "author": "Everestate",
   "license": "MIT",
   "dependencies": {
-    "@everestate/serverless-router": ">=0.2.0 <1.0.0"
+    "@everestate/serverless-router": ">=0.3.0"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jest": "^21.15.2",
-    "jest": "^23.2.0"
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "jest": "^23.6.0"
   }
 }

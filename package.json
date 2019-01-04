@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:everestate/serverless-router-plugin-dynamics.git"
+    "url": "git@github.com:everestate/serverless-router-dynamics.git"
   },
   "bugs": {
-    "url": "https://github.com/everestate/serverless-router-plugin-dynamics/issues"
+    "url": "https://github.com/everestate/serverless-router-dynamics/issues"
   },
   "author": "Everestate",
   "license": "MIT",

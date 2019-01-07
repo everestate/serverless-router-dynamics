@@ -1,4 +1,4 @@
-# @everestate/serverless-router-dynamics
+# @everestate/serverless-router-dynamics [![npm version](https://badge.fury.io/js/%40everestate%2Fserverless-router-dynamics.svg)](https://www.npmjs.com/package/@everestate/serverless-router-dynamics)
 
 > [Serverless Router](https://github.com/everestate/serverless-router) plugin to handle Microsoft Dynamics Webhooks
 

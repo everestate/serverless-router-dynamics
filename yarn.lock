@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@everestate/serverless-router@>=0.3.0":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@everestate/serverless-router/-/serverless-router-0.3.1.tgz#a422583f4a1058e40708964e810e093b02e953fc"
-  integrity sha512-kPA/p/yt2hb7/aLRBlC17J9ZyK07LjQ630UbklAQwT9QppvdJ+x/84PCqYikD2K6+sfsTk6meov3BIYVbz0TfQ==
+"@everestate/serverless-router@>=0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@everestate/serverless-router/-/serverless-router-0.4.0.tgz#e548c7f714b4237043bf1c7a4aabfa60283acbc8"
+  integrity sha512-m6xq9FGA1druEmO4fAV8wGcJcp00/mKF7SwkIHOcudnYRCSHaSVuQOonlNQBC5fnMlRO83pIufE9zpeNVkck5A==
 
 abab@^2.0.0:
   version "2.0.0"

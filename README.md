@@ -31,6 +31,10 @@ function dispatch(event) {
     .delete('lead', ({ id }) => {
       console.log(`Lead "${id} is deleted"`);
       return leadService.delete(id); // returns promise
+    })
+    .assign('lead', ({ id, entity }) => {
+      console.log(`New agent assigned to lead with "id: ${id}"`);
+      return leadService.assign(id, entity); // returns promise
     });
 
   router.mismatch(() => {
